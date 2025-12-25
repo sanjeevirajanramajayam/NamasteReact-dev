@@ -1,0 +1,16 @@
+{
+  "name": "episode-2",
+  "version": "1.0.0",
+  "description": "React Learning",
+  "license": "ISC",
+  "author": "Sanjeevi Rajan",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "parcel": "^2.16.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
